@@ -212,6 +212,7 @@
                                                 >
                                                     <a href="/" data-action="page" class="moto-widget-image-link moto-link">
                                                         <img
+                                                        style="height: 50px;"
                                                             data-src="<?=UPLOADS.$page_setting['image']?>"
                                                             src="<?=UPLOADS.$page_setting['image']?>"
                                                             class="moto-widget-image-picture moto-widget-deferred-content lazyloaded"
