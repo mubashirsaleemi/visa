@@ -40,7 +40,6 @@ endif;
                 <button type="submit" class="btn btn-primary btn-block">Sign in</button>
             </form>
             <footer class="page-copyright">
-                <p>WEBSITE BY <a href="http://hildes.info"><strong>HilDes</strong></a></p>
                 <p>© <?=date('Y')?>. All RIGHT RESERVED.</p>
                 <div class="social">
                     <a class="btn btn-icon btn-round social-twitter" href="javascript:void(0)"><i class="icon bd-twitter" aria-hidden="true"></i></a>
