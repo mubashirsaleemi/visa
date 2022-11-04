@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
   <meta name="description" content="Shops Bay Admin Panel">
   <meta name="author" content="">
-  <title>Sokoldev - Admin Panel</title>
+  <title>Brainys - Admin Panel</title>
   <link rel="apple-touch-icon" href="<?=IMG?>favicon.png" sizes="16x16">
   <link rel="icon" href="<?=IMG?>favicon.png" sizes="16x16">
   <!-- Stylesheets -->
