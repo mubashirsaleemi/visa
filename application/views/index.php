@@ -1,7 +1,7 @@
 <html lang="en" data-ng-app="website">
     <head>
         <meta charset="utf-8" />
-        <title>Home</title>
+        <title><?=APP_TITLE;?></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="preload" as="font" type="font/woff2" href="<?=FONTS?>fontawesome-webfont.woff2?v=4.7.0" />
