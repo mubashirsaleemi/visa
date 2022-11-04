@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql8',
-	'username' => 'visa_user',
-	'password' => 'P@ssword1',
-	'database' => 'visa',
+	'hostname' => 'localhost',
+	'username' => 'brainysn_user',
+	'password' => 'I8){mM6LbAvX',
+	'database' => 'brainysn_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

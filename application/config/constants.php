@@ -89,7 +89,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 /*CONSTANTS FOR FILES*/
 
-define("BASEURL", "http://localhost/");
+define("BASEURL", "https://brainys.net/");
 define("CSS", BASEURL."assets/css/");
 define("FONTS", BASEURL."assets/fonts/");
 define("JS", BASEURL."assets/js/");
