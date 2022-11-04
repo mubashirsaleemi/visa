@@ -1,0 +1,14 @@
+https://www.sokoldev.com:2083/
+sokoldev
+mCTH3oV`Iw}tR_.Q
+
+
+
+sokoldev_wp463
+sokoldev_wp463
+-&!,sAc@kgGu
+
+
+
+
+1.	ALTER TABLE `contact_form` ADD `subject` VARCHAR(100) NOT NULL DEFAULT '' AFTER `email`;
